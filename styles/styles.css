@@ -1,0 +1,233 @@
+body
+{
+    background-color:#f5f5f5;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+
+a
+{
+    text-decoration: inherit;
+    color: inherit;
+}
+
+a:visited
+{
+    text-decoration: inherit;
+    color: inherit;
+}
+
+#frame
+{
+    width: 65%;
+    background-color: blueviolet;
+    margin: 0px auto 0px auto;
+    box-sizing: border-box;
+    
+}
+
+#menu
+{
+    float: left;
+    background-color:#f5f5f5;
+    position: sticky;
+    box-sizing: border-box;
+    line-height: 60px;
+    width: 20%;
+    text-align: left;
+    padding: 0px 20px 20px 20px;
+    border-radius: 15px;
+}
+
+.menupicdiv
+{
+display: inline-block;
+width: 30%;
+box-sizing: border-box;
+text-align: center;
+}
+
+.menulistname
+{
+display: inline-block;
+width: 50%;
+font-weight: bold;
+}
+
+
+
+#meowerlogo
+{
+    width: 30px;
+    height: 30px;
+    vertical-align: middle;
+}
+.menulistlogos
+{
+    width: 30px;
+    height: 30px;
+    vertical-align: middle;
+}
+
+#content
+{
+    float: left;
+    width: 100px;
+    margin-top: 0px;
+    margin-right: 5px;
+    width:50%;
+    box-sizing: border-box;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #8899A6;
+    border-radius: 15px;
+    
+   
+    background-color: azure;
+}
+
+.articlechildhorizontal
+{
+    float: left;
+    width:12%;
+    height: 100%;
+    box-sizing: border-box;
+    text-align: center;
+    padding: 5px 5px 5px 7px;
+}
+.profilepic
+{
+    border-radius: 50%;
+}
+
+.articalchildwide
+{
+    float: left;
+    width: 88%;
+
+}
+#timeline
+{
+    display: inline-block;
+    box-sizing: border-box;
+    
+}
+
+
+
+#sidemenu
+{
+    float: right;
+    box-sizing: border-box;
+    position: sticky;
+    border-radius: 15px;
+    line-height: 30px;
+    width: 27%;
+    background-color: #ddf3f5;
+}
+
+#sidemenutitlediv
+{
+    font-size: 19px;
+    line-height:25px;
+    font-weight: bold;
+    padding: 10px 0 10px 15px;
+
+}
+
+.trendslistdiv
+{
+    
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+   
+
+}
+.sidemenborderdiv
+{
+    border-top: solid 1px;
+}
+
+.trend
+{
+    font-weight: bold;
+}
+
+.trendcatag
+{
+    font-size:14px;
+   
+}
+.numofmeows
+{
+    font-size:14px;
+}
+
+.trendslistdiv:hover
+{
+    background-color: #a6dcef;
+}
+
+
+
+.articletext
+{
+    padding: 10px 10px 10px 0px;
+    vertical-align: middle;
+}
+.posterprofilepic
+{
+    width: 80%;
+    border-radius: 50%;
+    max-width: 50px;
+    max-height: 50px;
+}
+.postpic
+{
+ border-radius: 15px;
+ max-width: 500px;
+ max-height: 340px;
+}
+
+.articleinteractbuttons
+{
+    width:  24%;
+    height: 5%;
+    padding: 5px 0 10px 0;
+    display: inline-block;
+    
+}
+
+.buttonpic
+{
+   
+    width: 20px;
+    height: 20px;
+}
+
+#hometitle
+{
+font-size: 19px;
+font-weight: bold;
+
+}
+
+#contenthometitlediv
+{
+    padding: 10px 10px 10px 17px;
+    
+}
+
+.profilename
+{
+    vertical-align: middle;
+    font-weight: bold;
+    
+}
+
+.menudiv:hover
+{
+    border-radius: 30px;
+    background-color: #a6dcef;
+}
+
